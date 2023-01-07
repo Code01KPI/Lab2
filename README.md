@@ -2,5 +2,5 @@
 Лабораторна роботу 2, предмет - Бази даних та засоби управління
 тема - Створення додатку бази даних, орієнтованого на взаємодію з СУБД PostgreSQL
 
-https://github.com/Code01KPI/Lab2/blob/main/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%D0%91%D0%94.jpg(jpg)
+![Структура БД]https://github.com/Code01KPI/Lab2/blob/main/СтруктураБД.jpg(jpg)
 
